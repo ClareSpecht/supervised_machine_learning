@@ -1,1 +1,2 @@
 # supervised_machine_learning
+In this Data BootCamp homework, I compared machine learning models using scaled versus unscaled peer-to-peer lending data and fitting a linear regression model versus a random forest classifier model.
